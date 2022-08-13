@@ -1,6 +1,6 @@
 [submodule "app/zlua"]
 	path = .local/app/zlua
-	url = https://github.com/skywind3000/z.lua
+	url = https://github.com/ilyagr/z.lua
 [submodule ".local/app/git-sync"]
 	path = .local/app/git-sync
 	url = https://github.com/simonthum/git-sync
