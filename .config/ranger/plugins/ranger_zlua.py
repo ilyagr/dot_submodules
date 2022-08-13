@@ -1,0 +1,1 @@
+../../../.local/app/zlua/ranger_zlua.py
