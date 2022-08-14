@@ -1,1 +1,1 @@
-../../../.local/app/zlua/ranger_zlua.py
+../../../config_submodules/zlua/ranger_zlua.py

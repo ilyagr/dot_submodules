@@ -1,9 +1,9 @@
 [submodule "app/zlua"]
-	path = .local/app/zlua
+	path = config_submodules/zlua
 	url = https://github.com/ilyagr/z.lua
 [submodule ".local/app/git-sync"]
-	path = .local/app/git-sync
+	path = config_submodules/git-sync
 	url = https://github.com/simonthum/git-sync
 [submodule ".local/app/ranger"]
-	path = .local/app/ranger
+	path = config_submodules/ranger
 	url = https://github.com/ranger/ranger
