@@ -1,1 +1,1 @@
-../../config_submodules/zlua/z.lua
+../../.local/config_modules/zlua/z.lua
