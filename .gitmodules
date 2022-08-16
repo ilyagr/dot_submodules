@@ -4,6 +4,3 @@
 [submodule ".local/app/git-sync"]
 	path = config_submodules/git-sync
 	url = https://github.com/simonthum/git-sync
-[submodule ".local/app/ranger"]
-	path = config_submodules/ranger
-	url = https://github.com/ranger/ranger
