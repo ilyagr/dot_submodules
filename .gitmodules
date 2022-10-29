@@ -5,8 +5,11 @@
 	path = .local/config_modules/git-sync
 	url = https://github.com/simonthum/git-sync
 [submodule ".local/config_modules/vim-fish"]
-	path = .local/config_modules/vim-fish
+	path = .local/config_modules/vim/fish
 	url = https://github.com/dag/vim-fish.git
 [submodule ".local/config_modules/vim-dirdiff"]
-	path = .local/config_modules/vim-dirdiff
+	path = .local/config_modules/vim/dirdiff
 	url = https://github.com/will133/vim-dirdiff
+[submodule ".local/config_modules/vim/vim-toml"]
+	path = .local/config_modules/vim/toml
+	url = https://github.com/cespare/vim-toml.git
