@@ -16,3 +16,6 @@
 [submodule ".local/config_modules/vim/tabdiff.vim"]
 	path = .local/config_modules/vim/tabdiff
 	url = git@github.com:Soares/tabdiff.vim.git
+[submodule ".local/config_modules/vimtabdiff"]
+	path = .local/config_modules/vimtabdiff
+	url = https://github.com/ilyagr/vimtabdiff
