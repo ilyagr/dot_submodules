@@ -19,3 +19,6 @@
 [submodule ".local/config_modules/vimtabdiff"]
 	path = .local/config_modules/vimtabdiff
 	url = https://github.com/ilyagr/vimtabdiff
+[submodule ".local/config_modules/tmux/tmux-fingers"]
+	path = .local/config_modules/tmux/fingers
+	url = https://github.com/ilyagr/tmux-fingers
