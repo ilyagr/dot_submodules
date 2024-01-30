@@ -25,3 +25,6 @@
 [submodule ".local/config_modules/tmux/extrakto"]
 	path = .local/config_modules/tmux/extrakto
 	url = https://github.com/ilyagr/extrakto.git
+[submodule ".local/config_modules/vim/jjdescription"]
+	path = .local/config_modules/vim/jjdescription
+	url = https://github.com/avm99963/vim-jjdescription
