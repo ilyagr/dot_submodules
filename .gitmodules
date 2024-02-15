@@ -28,3 +28,6 @@
 [submodule ".local/config_modules/vim/jjdescription"]
 	path = .local/config_modules/vim/jjdescription
 	url = https://github.com/avm99963/vim-jjdescription
+[submodule ".local/config_modules/tmux/fzf-maccy"]
+	path = .local/config_modules/tmux/fzf-maccy
+	url = https://github.com/junegunn/tmux-fzf-maccy
