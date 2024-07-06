@@ -28,3 +28,6 @@
 [submodule ".local/config_modules/tmux/fzf-maccy"]
 	path = .local/config_modules/tmux/fzf-maccy
 	url = https://github.com/junegunn/tmux-fzf-maccy
+[submodule ".local/config_modules/wcurl"]
+	path = .local/config_modules/wcurl
+	url = https://github.com/Debian/wcurl.git
