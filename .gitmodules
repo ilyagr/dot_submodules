@@ -31,3 +31,6 @@
 [submodule ".local/config_modules/wcurl"]
 	path = .local/config_modules/wcurl
 	url = https://github.com/Debian/wcurl.git
+[submodule ".local/config_modules/fish/9f47082b8b6e6ed2b2a805a1516090c8"]
+	path = .local/config_modules/fish/jj_completions_bnjmtt4n
+	url = https://gist.github.com/bnjmnt4n/9f47082b8b6e6ed2b2a805a1516090c8
