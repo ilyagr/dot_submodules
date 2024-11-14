@@ -37,3 +37,9 @@
 [submodule ".local/config_modules/tmux/fzf"]
 	path = .local/config_modules/tmux/fzf
 	url = https://github.com/sainnhe/tmux-fzf
+[submodule ".local/config_modules/jj-fzf"]
+	path = .local/config_modules/jj-fzf
+	url = https://github.com/tim-janik/jj-fzf
+[submodule ".local/config_modules/--force"]
+	path = .local/config_modules/--force
+	url = https://github.com/tim-janik/jj-fzf
