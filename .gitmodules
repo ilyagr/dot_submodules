@@ -43,3 +43,6 @@
 [submodule ".local/config_modules/--force"]
 	path = .local/config_modules/--force
 	url = https://github.com/tim-janik/jj-fzf
+[submodule ".local/config_modules/vim/janet"]
+	path = .local/config_modules/vim/janet
+	url = https://github.com/janet-lang/janet.vim
