@@ -46,3 +46,6 @@
 [submodule ".local/config_modules/vim/janet"]
 	path = .local/config_modules/vim/janet
 	url = https://github.com/janet-lang/janet.vim
+[submodule ".local/config_modules/fish/async-prompt"]
+	path = .local/config_modules/fish/async-prompt
+	url = git@github.com:ilyagr/fish-async-prompt.git

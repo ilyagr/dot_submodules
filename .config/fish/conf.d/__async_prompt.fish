@@ -1,0 +1,1 @@
+../../../.local/config_modules/fish/async-prompt/conf.d/__async_prompt.fish
